@@ -1,0 +1,11 @@
+{
+  "name": "webeffects-util",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-frame-component": "^5.2.3"
+  },
+  "scripts": {
+  }
+}
